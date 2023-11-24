@@ -13,7 +13,8 @@ Dataset
 The training dataset comprises artworks from various artists, obtained from [insert dataset source]. This diverse collection serves as the foundation for training the model.
 
 Link: style images- https://www.kaggle.com/datasets/czkaiweb/subwikiarts?select=imgs
-content images- provided
+
+content images- https://drive.google.com/file/d/1eWyVbc6PSByK6zTPLzAZIseb1osIbMce/view?usp=sharing
 
 
 Data Preprocessing
